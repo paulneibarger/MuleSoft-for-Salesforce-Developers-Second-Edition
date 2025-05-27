@@ -1,6 +1,6 @@
 # MuleSoft-for-Salesforce-Developers-Second-Edition
 
-<a href="https://www.packtpub.com/en-in/product/mulesoft-for-salesforce-developers-9781835882337"> <img src="" alt="Mulesoft for Salesforce Developers Second Edition" itemprop="url" height="256px" align="right">
+<a href="https://www.packtpub.com/en-in/product/mulesoft-for-salesforce-developers-9781835882337"> !["Mulesoft for Salesforce Developers Second Edition"](Images/MuleSoft-for-Salesforce-Developer.png)
 
 This is the code repository for [Mulesoft for Salesforce Developers](https://www.packtpub.com/en-in/product/mulesoft-for-salesforce-developers-9781835882337), published by Packt.
 
